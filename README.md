@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hamed Lorfalizadeh
 - 👀 I’m interested in MMIC and RF amplifier designing.
-- 🌱 I’m currently learning ADS.
-- 💞️ I’m looking to collaborate on ...
+- I am working in Radio Activity srl <company and designing high power amplifiers.
+- 🌱 I’m currently learning ADS and AWR Microwave office.
+- 💞️ I’m looking to collaborate on designing input output circuit of different amplifiers
 - 📫 How to reach me mail: hamed.lotfalizadeh@mail.polimi.it
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
